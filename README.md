@@ -1,4 +1,5 @@
-# plastic-recycling-study
+#📄 Full detailed report is available in the PDF file above.
+plastic-recycling-study
 Study of plastic recycling methods and waste management techniques.
 # Plastic Recycling & Waste Management
 
